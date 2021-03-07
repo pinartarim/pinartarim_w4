@@ -57,7 +57,7 @@ p{
 }
 
 #headerwrap{
-    background: url(file:///Users/pinar.tarim/Documents/GitHub/pinartarim_w4/img/frontend.png) no-repeat center;
+    background: url(/img/frontend.png) no-repeat center;
     min-height: 650px;
     margin-top: 20px; 
 }
